@@ -1,0 +1,4 @@
+back_ground = 1300x800
+ball        = 40x40 \R = 20
+square      = 40x150
+gates       = 170
